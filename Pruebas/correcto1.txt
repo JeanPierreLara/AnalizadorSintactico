@@ -1,0 +1,14 @@
+void suma(int x,int y){
+int r;
+r=x+y;
+cout<<r;
+}
+
+void main(){
+
+cout<<"suma";
+
+int x=10,y=20;
+suma(x,y);
+
+}

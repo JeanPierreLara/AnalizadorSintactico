@@ -1,0 +1,8 @@
+void main(){
+int c=0
+while(c>10){
+  cout<<"hola mundo";
+  c=c+1;
+}
+
+}

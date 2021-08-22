@@ -1,0 +1,22 @@
+void main(){
+
+int x=10,y=40,c=0;
+
+while(c==40){
+
+ if(c<10){
+  cout<<"menor que 10";
+ }else{
+	
+  if(c<40){
+     cout<<"menor que 40";
+   }
+   else{
+      cout<<"mayor que 40";
+    }
+ }
+c=c+1;
+
+}
+
+}

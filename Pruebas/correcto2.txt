@@ -1,0 +1,12 @@
+int x=100;
+
+void main(){
+
+if(x==1000){
+ cout<<"hola mundo";
+}
+else{
+ cout<<"adios mundo";
+}
+
+}

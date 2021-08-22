@@ -1,0 +1,15 @@
+int identificador=10;
+
+int suma(int x,int y){
+cout<<"suma";
+
+return 1000;
+}
+
+void main(){
+
+int r=10,s=20,q=30;
+
+r=r+1;
+
+}

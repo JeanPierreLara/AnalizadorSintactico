@@ -1,0 +1,10 @@
+void main(){
+float a=34.5;
+int r;
+
+cout<<"free software";
+
+r=a+"GNU";
+
+
+}
